@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
-import contact from "C:/portfolio/jey/src/Asset/Contact.png";
+import contact from "../../src/Asset/Contact.png";
 
 function Nav() {
   return (
